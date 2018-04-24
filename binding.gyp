@@ -6,6 +6,7 @@
                 "multihashing.cc",
                         "Lyra2RE.c",
                         "Lyra2.c",
+			"Sponge.c",
                 "scryptjane.c",
                 "scryptn.c",
                 "keccak.c",
